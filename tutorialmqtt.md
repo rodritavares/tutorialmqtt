@@ -141,4 +141,14 @@ client.end();
 ```
 
 ## Referências
+https://medium.com/codersgarage/rabbitmq-amqp-mqtt-rest-of-the-world-74433c5ff8c7 
+https://blog.autsoft.hu/choosing-an-mqtt-broker-for-your-iot-project/
+https://www.raviyp.com/embedded/224-mqtt-protocol-tutorial-using-mosquitto-and-cloudmqtt
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04 
+https://devcenter.heroku.com/articles/cloudmqtt 
+https://www.embarcados.com.br/mqtt-protocolos-para-iot/
+https://niltonfelipe.wordpress.com/2018/04/22/conhecendo-o-mqtt/ 
+http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718008 
+http://mqtt.org/faq
+
 
