@@ -121,7 +121,7 @@ mosquitto_sub -h postman.cloudmqtt.com -p 13244 -t meutopico -u zvdqauay -P Nl0w
 Agora vá na aba websocket ui e envie uma mensagem ao tópico que vc criou e veja ela chegando até o seu client mosquitto_sub. Acompanhe os pacotes de controle no wireshark.
 
 ### Continue seus estudos em MQTT...  
-Depois de dominar os conceitos de MQTT, dê uma olhada no bevywise (que permite simular sua solução IoT com quantos dispositivos vc quiser) e também em Node + mqtt, esse tutorial [aqui](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/) mostra que existem muitas possibilidades. Veja um exemplo em Node abaixo, simples não é mesmo?! A biblioteca [mqqtjs](https://github.com/mqttjs/MQTT.js) é bem documentada.
+Depois de dominar os conceitos de MQTT, dê uma olhada no bevywise (que permite simular sua solução IoT com quantos dispositivos vc quiser) e também em Node + mqtt, esse tutorial [aqui](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/) mostra que existem muitas possibilidades. Veja um exemplo em Node abaixo, simples não é mesmo?! A biblioteca [mqttjs](https://github.com/mqttjs/MQTT.js) é bem documentada.
 
 ```js
 var mqtt = require('mqtt');
