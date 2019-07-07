@@ -68,7 +68,7 @@ mosquitto_pub -m mymessage -t mytopic -d
 Agora com o debug você pode ver as mensagens trocadas na comunicação do pub e sub com o broker, tais como  CONNECT, CONNACK, SUBSCRIBE, SUBACK.  
 
 <img src="https://user-images.githubusercontent.com/20146828/60676938-8b1fbd80-9e56-11e9-9165-1e6d6cdd82d6.gif" height="312" width="500">
-<img src="https://user-images.githubusercontent.com/20146828/60676938-8b1fbd80-9e56-11e9-9165-1e6d6cdd82d6.gif" height="312" width="500">  
+<img src="https://user-images.githubusercontent.com/20146828/60766890-36628980-a086-11e9-82ab-7aa79d7a6fb4.gif" height="312" width="500">  
 
 Então vamos entender melhor cada uma delas e como trabalha o protocolo MQTT.  
 
