@@ -141,14 +141,13 @@ client.end();
 ```
 
 ## Referências
-https://medium.com/codersgarage/rabbitmq-amqp-mqtt-rest-of-the-world-74433c5ff8c7   
-https://blog.autsoft.hu/choosing-an-mqtt-broker-for-your-iot-project/   
-https://www.raviyp.com/embedded/224-mqtt-protocol-tutorial-using-mosquitto-and-cloudmqtt   
-https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04   
-https://devcenter.heroku.com/articles/cloudmqtt   
-https://www.embarcados.com.br/mqtt-protocolos-para-iot/   
-https://niltonfelipe.wordpress.com/2018/04/22/conhecendo-o-mqtt/   
-http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718008   
-http://mqtt.org/faq  
-
+[1] http://mqtt.org/faq  
+[2] https://medium.com/codersgarage/rabbitmq-amqp-mqtt-rest-of-the-world-74433c5ff8c7   
+[3] https://blog.autsoft.hu/choosing-an-mqtt-broker-for-your-iot-project/   
+[4] https://www.raviyp.com/embedded/224-mqtt-protocol-tutorial-using-mosquitto-and-cloudmqtt   
+[5] https://devcenter.heroku.com/articles/cloudmqtt   
+[6] https://www.embarcados.com.br/mqtt-protocolos-para-iot/   
+[7] https://niltonfelipe.wordpress.com/2018/04/22/conhecendo-o-mqtt/   
+[8] http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html#_Toc398718008    
+[9] https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04    
 
